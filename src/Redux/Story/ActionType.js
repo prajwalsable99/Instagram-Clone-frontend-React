@@ -1,0 +1,3 @@
+export const ADD_STORY="ADD_STORY";
+export const USER_STORY="USER_STORY"
+export const FOLLOWING_STORY="FOLLOWING_STORY"
