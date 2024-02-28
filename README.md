@@ -1,3 +1,9 @@
+frontend :
+### Backend Repository
+
+To access the backend codebase separately, you can navigate to our dedicated backend repository. 
+[Click here to visit the  repository](https://github.com/prajwalsable99/Instagram-Clone-backend-SPRINGBOOT).
+
 ![Screenshot 1](outputs/Capture1.JPG)
 ![Screenshot 2](outputs/Capture2.JPG)
 ![Screenshot 3](outputs/Capture3.JPG)
